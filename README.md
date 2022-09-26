@@ -13,4 +13,4 @@ So far it hosts her projects for Creative Embedded Systems at Barnard College
 
 Now it also hosts her projects for Computational Sound at Barnard College
 
-[Groovy Keyboard]{https://miiklee.github.io/comp-sound-keyboard/}
+[Groovy Keyboard](https://miiklee.github.io/comp-sound-keyboard/)
