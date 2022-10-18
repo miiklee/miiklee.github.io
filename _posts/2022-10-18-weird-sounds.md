@@ -29,4 +29,4 @@ make that happen was not feasible in the time I left for myself to complete this
 
 #### Audio Signal Graph
 
-![](IMG_0811.jpg)
+![IMG_0811.jpg](https://github.com/miiklee/miiklee.github.io/blob/2fa321d6ef02aa40a90aba5789f31621b3ac0896/_posts/IMG_0811.jpg))
