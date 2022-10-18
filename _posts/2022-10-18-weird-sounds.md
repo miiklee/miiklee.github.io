@@ -4,6 +4,7 @@ title:  "Farnell Synthesis Part 2"
 author: Mirea Klee
 ---
 
+[see the code in action :)]("https://miiklee.github.io/farnell-synthesis/")
 
 #### Planning
 
