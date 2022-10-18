@@ -28,4 +28,4 @@ make that happen was not feasible in the time I left for myself to complete this
 
 #### Sound Signal Diagram
 
-![](diagram.png)
+![](IMG_0811.jpg)
