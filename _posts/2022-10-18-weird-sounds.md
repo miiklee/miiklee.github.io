@@ -27,6 +27,6 @@ intended to go all out with the r2d2 implementation, but found diagrams pretty i
 code, and google was of very little help in explaining what the terms meant. In the end I decided that figuring out how to actually
 make that happen was not feasible in the time I left for myself to complete this assignment.
 
-#### Sound Signal Diagram
+#### Audio Signal Graph
 
 ![](IMG_0811.jpg)
