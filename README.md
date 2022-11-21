@@ -20,3 +20,5 @@ Now it also hosts her projects for Computational Sound at Barnard College
 [Farnell Synthesis]({% post_url 2022-10-18-weird-sounds %})
 
 [Live Coding](https://miiklee.github.io/live-lang/)
+
+[Automated Composition]({% post_url 2022-11-21-Automated-Composition %})
