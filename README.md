@@ -22,3 +22,6 @@ Now it also hosts her projects for Computational Sound at Barnard College
 [Live Coding](https://miiklee.github.io/live-lang/)
 
 [Automated Composition]({% post_url 2022-11-21-Automated-Composition %})
+
+[Final Minimoog VST]({% post_url 2022-12-16-minimoog %})
+
